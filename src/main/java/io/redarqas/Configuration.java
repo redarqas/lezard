@@ -2,7 +2,6 @@ package io.redarqas;
 
 import org.eclipse.rap.rwt.application.Application;
 import org.eclipse.rap.rwt.application.ApplicationConfiguration;
-
 import com.eclipsesource.tabris.TabrisClientInstaller;
 import com.eclipsesource.tabris.ui.ActionConfiguration;
 import com.eclipsesource.tabris.ui.PageConfiguration;
